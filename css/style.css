@@ -1,0 +1,36 @@
+h1{
+    color: pink;
+    text-align: center;
+}
+/* Modify the backgorund color */ 
+.navbar-custom { 
+    background-color: #FBE4FF; 
+} 
+/* Modify brand and text color */ 
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text
+{ 
+    color: white; 
+} 
+/* Modify the background color */
+main {
+    background-color: green;
+}
+img {
+    display: inline-block;
+  }
+  button{font-family:Century Schoolbook;}
+  div{font-family:Century Schoolbook;}
+  .floatRightClear{float:right;clear:right;margin-left:20px}
+  html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Century !important;
+}
+.floatLeftClear{float:left;clear:left;margin-right:20px}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
